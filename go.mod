@@ -1,3 +1,3 @@
-module github.com/alrusov/versionedObjects
+module github.com/alrusov/versionedobjects
 
-go 1.25.6
+go 1.25.0

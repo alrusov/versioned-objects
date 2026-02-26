@@ -1,4 +1,4 @@
-package versionedObjects
+package versionedobjects
 
 import (
 	"testing"
